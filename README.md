@@ -3,7 +3,7 @@
 ### Controls:
 * Arrow Key Up - Move Up
 * Arrow Key Down - Move Down
-* Arrow Key Right - MOve Right
+* Arrow Key Right - Move Right
 * Arrow Key Left - Move Left
 * Space Key - Paint
 * D Key - Erase
